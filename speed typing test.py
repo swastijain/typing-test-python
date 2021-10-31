@@ -35,4 +35,4 @@ def typing_speed_test():
     print("Speed:",(correct_word)*100%(keystrokes),"WPM(words per minute)")
 typing_speed_test()
 
-#change2
+#change3
